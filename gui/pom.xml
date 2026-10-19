@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
   <artifactId>ide-gui</artifactId>
-  <version>${revision}</version>
+  <version>${revision}-SNAPSHOT</version>
   <name>${project.artifactId}</name>
 
   <properties>
