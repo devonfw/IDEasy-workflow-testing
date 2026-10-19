@@ -9,7 +9,7 @@
   </parent>
   <groupId>com.devonfw.tools.IDEasy</groupId>
   <artifactId>ide-doc</artifactId>
-  <version>${revision}</version>
+  <version>${revision}-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>${project.artifactId}</name>
   <description>Documentation for IDEasy (Tool for automation of development environments)</description>
