@@ -8,7 +8,7 @@
     <version>dev-SNAPSHOT</version>
   </parent>
   <artifactId>ide-cli</artifactId>
-  <version>${revision}</version>
+  <version>${revision}-SNAPSHOT</version>
   <name>${project.artifactId}</name>
   <properties>
     <mainClass>com.devonfw.tools.ide.cli.Ideasy</mainClass>
